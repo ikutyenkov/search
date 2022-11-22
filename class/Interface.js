@@ -1,0 +1,1 @@
+module.exports = new (require("../../node_modules/micro-service-events-client"))('Search');
